@@ -1,0 +1,16 @@
+# local backups
+*.bak
+
+# local dev preview
+_preview/
+.claude/
+
+# unrelated project living in this folder
+Miscellaneous/
+
+# macOS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
