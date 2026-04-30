@@ -1,0 +1,912 @@
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - complementary [ref=e7]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - link [ref=e10] [cursor=pointer]:
+              - /url: /
+              - img [ref=e12]
+            - generic "Michael.a.hawk.1995@gmail.com's Account" [ref=e17]
+          - navigation [ref=e19]:
+            - generic [ref=e23]:
+              - button "Quick search..." [ref=e25] [cursor=pointer]:
+                - generic [ref=e26]:
+                  - img [ref=e27]
+                  - generic [ref=e29]: Quick search...
+                  - generic [ref=e30]: Ctrl K
+              - list [ref=e34]:
+                - listitem [ref=e35]:
+                  - link "Account home" [ref=e36] [cursor=pointer]:
+                    - /url: /5cacafefb8b37c93a53b60ddd6a39b30/home
+                    - generic [ref=e37]:
+                      - img [ref=e38]
+                      - generic [ref=e41]: Account home
+                - listitem [ref=e42]:
+                  - button "Recents" [ref=e43] [cursor=pointer]:
+                    - generic [ref=e44]:
+                      - img [ref=e45]
+                      - generic [ref=e48]: Recents
+                      - img [ref=e49]
+                  - list [ref=e51]:
+                    - listitem [ref=e53]:
+                      - link "Account API tokens Manage account" [ref=e54] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/api-tokens
+                        - generic [ref=e55]:
+                          - generic [ref=e56]: Account API tokens
+                          - generic [ref=e58]: Manage account
+                      - button "Pin" [ref=e60] [cursor=pointer]:
+                        - generic [ref=e61]:
+                          - img [ref=e62]
+                          - img [ref=e67]
+                    - listitem [ref=e69]:
+                      - link "Address maps IP addresses" [ref=e70] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/ip-addresses/proxy-ips
+                        - generic [ref=e71]:
+                          - generic [ref=e72]: Address maps
+                          - generic [ref=e74]: IP addresses
+                      - button "Pin" [ref=e76] [cursor=pointer]:
+                        - generic [ref=e77]:
+                          - img [ref=e78]
+                          - img [ref=e83]
+                    - listitem [ref=e85]:
+                      - link "Zero Trust Protect & Connect" [ref=e86] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/zero-trust/landing-page
+                        - generic [ref=e87]:
+                          - generic [ref=e88]: Zero Trust
+                          - generic [ref=e90]: Protect & Connect
+                      - button "Pin" [ref=e92] [cursor=pointer]:
+                        - generic [ref=e93]:
+                          - img [ref=e94]
+                          - img [ref=e99]
+                    - listitem [ref=e101]:
+                      - link "atx-pool-builders Workers" [ref=e102] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/services/view/atx-pool-builders/production/builds/fdcc2b55-b983-4456-b94a-272b61d8fbbe
+                        - generic [ref=e103]:
+                          - generic [ref=e104]: atx-pool-builders
+                          - generic [ref=e106]: Workers
+                      - button "Pin" [ref=e108] [cursor=pointer]:
+                        - generic [ref=e109]:
+                          - img [ref=e110]
+                          - img [ref=e115]
+                    - listitem [ref=e117]:
+                      - link "Registrations Domains" [ref=e118] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/registrar/register
+                        - generic [ref=e119]:
+                          - generic [ref=e120]: Registrations
+                          - generic [ref=e122]: Domains
+                      - button "Pin" [ref=e124] [cursor=pointer]:
+                        - generic [ref=e125]:
+                          - img [ref=e126]
+                          - img [ref=e131]
+                - listitem [ref=e133]:
+                  - button "Domains" [ref=e134] [cursor=pointer]:
+                    - generic [ref=e135]:
+                      - img [ref=e136]
+                      - generic [ref=e138]: Domains
+                      - img [ref=e139]
+                  - list [ref=e141]:
+                    - listitem [ref=e143]:
+                      - link "Overview" [ref=e144] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/domains/overview
+                        - generic [ref=e145]: Overview
+                    - listitem [ref=e146]:
+                      - link "Registrations" [ref=e147] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/domains/registrations
+                        - generic [ref=e148]: Registrations
+                    - listitem [ref=e149]:
+                      - link "Transfers" [ref=e150] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/domains/transfers
+                        - generic [ref=e151]: Transfers
+                - listitem [ref=e152]:
+                  - generic [ref=e154]: Observe
+                - listitem [ref=e155]:
+                  - button "Investigate" [ref=e156] [cursor=pointer]:
+                    - generic [ref=e157]:
+                      - img [ref=e158]
+                      - generic [ref=e161]: Investigate
+                      - img [ref=e162]
+                  - list [ref=e164]:
+                    - listitem [ref=e166]:
+                      - button "Log Explorer" [ref=e167] [cursor=pointer]:
+                        - generic [ref=e169]: Log Explorer
+                        - img [ref=e170]
+                      - list [ref=e172]:
+                        - listitem [ref=e174]:
+                          - link "Log search" [ref=e175] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/log-explorer/log-search
+                            - generic [ref=e176]: Log search
+                    - listitem [ref=e177]:
+                      - link "Trace Beta" [ref=e178] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/trace
+                        - generic [ref=e179]: Trace
+                        - generic [ref=e181]: Beta
+                    - listitem [ref=e182]:
+                      - link "Logpush" [ref=e183] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/logs
+                        - generic [ref=e184]: Logpush
+                - listitem [ref=e185]:
+                  - button "Analytics" [ref=e186] [cursor=pointer]:
+                    - generic [ref=e187]:
+                      - img [ref=e188]
+                      - generic [ref=e191]: Analytics
+                      - img [ref=e192]
+                  - list [ref=e194]:
+                    - listitem [ref=e196]:
+                      - link "Account analytics" [ref=e197] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/analytics
+                        - generic [ref=e198]: Account analytics
+                    - listitem [ref=e199]:
+                      - link "Web analytics" [ref=e200] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/web-analytics
+                        - generic [ref=e201]: Web analytics
+                - listitem [ref=e202]:
+                  - generic [ref=e204]: Build
+                - listitem [ref=e205]:
+                  - button "Compute" [ref=e206] [cursor=pointer]:
+                    - generic [ref=e207]:
+                      - img [ref=e208]
+                      - generic [ref=e212]: Compute
+                      - img [ref=e213]
+                  - list [ref=e215]:
+                    - listitem [ref=e217]:
+                      - link "Workers & Pages" [ref=e218] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers-and-pages
+                        - generic [ref=e219]: Workers & Pages
+                    - listitem [ref=e220]:
+                      - link "Observability" [ref=e221] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/observability
+                        - generic [ref=e222]: Observability
+                    - listitem [ref=e223]:
+                      - link "Workers for Platforms" [ref=e224] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers-for-platforms
+                        - generic [ref=e225]: Workers for Platforms
+                    - listitem [ref=e226]:
+                      - link "Containers" [ref=e227] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/containers
+                        - generic [ref=e228]: Containers
+                    - listitem [ref=e229]:
+                      - link "Durable Objects" [ref=e230] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/durable-objects
+                        - generic [ref=e231]: Durable Objects
+                    - listitem [ref=e232]:
+                      - link "Queues" [ref=e233] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/queues
+                        - generic [ref=e234]: Queues
+                    - listitem [ref=e235]:
+                      - link "Workflows" [ref=e236] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/workflows
+                        - generic [ref=e237]: Workflows
+                    - listitem [ref=e238]:
+                      - link "Browser Run" [ref=e239] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/browser-run
+                        - generic [ref=e240]: Browser Run
+                    - listitem [ref=e241]:
+                      - link "VPC Beta" [ref=e242] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/vpc
+                        - generic [ref=e243]: VPC
+                        - generic [ref=e245]: Beta
+                    - listitem [ref=e246]:
+                      - button "Email Service" [ref=e247] [cursor=pointer]:
+                        - generic [ref=e249]: Email Service
+                        - img [ref=e250]
+                      - list [ref=e252]:
+                        - listitem [ref=e254]:
+                          - link "Email Sending Beta" [ref=e255] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/email-service/sending
+                            - generic [ref=e256]: Email Sending
+                            - generic [ref=e258]: Beta
+                        - listitem [ref=e259]:
+                          - link "Email Routing" [ref=e260] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/email-service/routing
+                            - generic [ref=e261]: Email Routing
+                    - listitem [ref=e262]:
+                      - link "Workers plans" [ref=e263] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/plans
+                        - generic [ref=e264]: Workers plans
+                - listitem [ref=e265]:
+                  - button "AI" [ref=e266] [cursor=pointer]:
+                    - generic [ref=e267]:
+                      - img [ref=e268]
+                      - generic [ref=e270]: AI
+                      - img [ref=e271]
+                  - list [ref=e273]:
+                    - listitem [ref=e275]:
+                      - link "Models" [ref=e276] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/ai/models
+                        - generic [ref=e277]: Models
+                    - listitem [ref=e278]:
+                      - link "Workers AI" [ref=e279] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/ai/workers-ai
+                        - generic [ref=e280]: Workers AI
+                    - listitem [ref=e281]:
+                      - link "AI Gateway" [ref=e282] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/ai/ai-gateway
+                        - generic [ref=e283]: AI Gateway
+                    - listitem [ref=e284]:
+                      - link "Vectorize" [ref=e285] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/ai/vectorize
+                        - generic [ref=e286]: Vectorize
+                    - listitem [ref=e287]:
+                      - link "AI Search Beta" [ref=e288] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/ai/ai-search
+                        - generic [ref=e289]: AI Search
+                        - generic [ref=e291]: Beta
+                - listitem [ref=e292]:
+                  - button "Storage & databases" [ref=e293] [cursor=pointer]:
+                    - generic [ref=e294]:
+                      - img [ref=e295]
+                      - generic [ref=e298]: Storage & databases
+                      - img [ref=e299]
+                  - list [ref=e301]:
+                    - listitem [ref=e303]:
+                      - button "R2 Object Storage" [ref=e304] [cursor=pointer]:
+                        - generic [ref=e306]: R2 Object Storage
+                        - img [ref=e307]
+                      - list [ref=e309]:
+                        - listitem [ref=e311]:
+                          - link "Overview" [ref=e312] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/r2/overview
+                            - generic [ref=e313]: Overview
+                        - listitem [ref=e314]:
+                          - link "Data migration" [ref=e315] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/r2/slurper
+                            - generic [ref=e316]: Data migration
+                    - listitem [ref=e317]:
+                      - link "Hyperdrive" [ref=e318] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/hyperdrive
+                        - generic [ref=e319]: Hyperdrive
+                    - listitem [ref=e320]:
+                      - link "Workers KV" [ref=e321] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/kv/namespaces
+                        - generic [ref=e322]: Workers KV
+                    - listitem [ref=e323]:
+                      - link "D1 SQL database" [ref=e324] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/d1
+                        - generic [ref=e325]: D1 SQL database
+                    - listitem [ref=e326]:
+                      - link "Analytics Engine" [ref=e327] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/analytics-engine
+                        - generic [ref=e328]: Analytics Engine
+                    - listitem [ref=e329]:
+                      - button "Pipelines Beta" [ref=e330] [cursor=pointer]:
+                        - generic [ref=e331]:
+                          - generic [ref=e332]: Pipelines
+                          - generic [ref=e334]: Beta
+                        - img [ref=e335]
+                      - list [ref=e337]:
+                        - listitem [ref=e339]:
+                          - link "Pipelines" [ref=e340] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/pipelines/overview
+                            - generic [ref=e341]: Pipelines
+                    - listitem [ref=e342]:
+                      - link "Secrets Store New" [ref=e343] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/secrets-store
+                        - generic [ref=e344]: Secrets Store
+                        - generic [ref=e346]: New
+                - listitem [ref=e347]:
+                  - button "Media" [ref=e348] [cursor=pointer]:
+                    - generic [ref=e349]:
+                      - img [ref=e350]
+                      - generic [ref=e353]: Media
+                      - img [ref=e354]
+                  - list [ref=e356]:
+                    - listitem [ref=e358]:
+                      - button "Stream" [ref=e359] [cursor=pointer]:
+                        - generic [ref=e361]: Stream
+                        - img [ref=e362]
+                      - list [ref=e364]:
+                        - listitem [ref=e366]:
+                          - link "Plans" [ref=e367] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/stream/plans
+                            - generic [ref=e368]: Plans
+                    - listitem [ref=e369]:
+                      - button "Images" [ref=e370] [cursor=pointer]:
+                        - generic [ref=e372]: Images
+                        - img [ref=e373]
+                      - list [ref=e375]:
+                        - listitem [ref=e377]:
+                          - link "Transformations" [ref=e378] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/images/transformations
+                            - generic [ref=e379]: Transformations
+                        - listitem [ref=e380]:
+                          - link "Hosted images" [ref=e381] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/images/hosted
+                            - generic [ref=e382]: Hosted images
+                        - listitem [ref=e383]:
+                          - link "Plans" [ref=e384] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/images/plans
+                            - generic [ref=e385]: Plans
+                    - listitem [ref=e386]:
+                      - button "Realtime" [ref=e387] [cursor=pointer]:
+                        - generic [ref=e389]: Realtime
+                        - img [ref=e390]
+                      - list [ref=e392]:
+                        - listitem [ref=e394]:
+                          - link "RealtimeKit Beta" [ref=e395] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/realtime/kit
+                            - generic [ref=e396]: RealtimeKit
+                            - generic [ref=e398]: Beta
+                        - listitem [ref=e399]:
+                          - link "TURN Server" [ref=e400] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/realtime/turn
+                            - generic [ref=e401]: TURN Server
+                        - listitem [ref=e402]:
+                          - link "Serverless SFU" [ref=e403] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/realtime/sfu
+                            - generic [ref=e404]: Serverless SFU
+                        - listitem [ref=e405]:
+                          - link "MoQ Relay Alpha" [ref=e406] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/realtime/moq
+                            - generic [ref=e407]: MoQ Relay
+                            - generic [ref=e409]: Alpha
+                        - listitem [ref=e410]:
+                          - link "MoQ Bench" [ref=e411] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/realtime/moq-bench
+                            - generic [ref=e412]: MoQ Bench
+                - listitem [ref=e413]:
+                  - generic [ref=e415]: Protect & Connect
+                - listitem [ref=e416]:
+                  - button "Application security" [ref=e417] [cursor=pointer]:
+                    - generic [ref=e418]:
+                      - img [ref=e419]
+                      - generic [ref=e422]: Application security
+                      - img [ref=e423]
+                  - list [ref=e425]:
+                    - listitem [ref=e427]:
+                      - link "Security insights" [ref=e428] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/security-center
+                        - generic [ref=e429]: Security insights
+                    - listitem [ref=e430]:
+                      - link "WAF" [ref=e431] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/application-security/waf
+                        - generic [ref=e432]: WAF
+                    - listitem [ref=e433]:
+                      - link "Investigate" [ref=e434] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/application-security/investigate
+                        - generic [ref=e435]: Investigate
+                    - listitem [ref=e436]:
+                      - link "Infrastructure" [ref=e437] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/security-center/inventory
+                        - generic [ref=e438]: Infrastructure
+                    - listitem [ref=e439]:
+                      - link "Turnstile" [ref=e440] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/turnstile
+                        - generic [ref=e441]: Turnstile
+                - listitem [ref=e442]:
+                  - link "Zero Trust" [ref=e443] [cursor=pointer]:
+                    - /url: /5cacafefb8b37c93a53b60ddd6a39b30/zero-trust/landing-page
+                    - generic [ref=e444]:
+                      - img [ref=e445]
+                      - generic [ref=e448]: Zero Trust
+                - listitem [ref=e449]:
+                  - button "Networking" [ref=e450] [cursor=pointer]:
+                    - generic [ref=e451]:
+                      - img [ref=e452]
+                      - generic [ref=e454]: Networking
+                      - img [ref=e455]
+                  - list [ref=e457]:
+                    - listitem [ref=e459]:
+                      - link "Overview New" [ref=e460] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/magic-networks/overview
+                        - generic [ref=e461]: Overview
+                        - generic [ref=e463]: New
+                    - listitem [ref=e464]:
+                      - button "Insights" [ref=e465] [cursor=pointer]:
+                        - generic [ref=e467]: Insights
+                        - img [ref=e468]
+                      - list [ref=e470]:
+                        - listitem [ref=e472]:
+                          - link "Network flow" [ref=e473] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/networking-insights/analytics/network-analytics/flow-analytics
+                            - generic [ref=e474]: Network flow
+                    - listitem [ref=e475]:
+                      - link "Tunnels New" [ref=e476] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/tunnels
+                        - generic [ref=e477]: Tunnels
+                        - generic [ref=e479]: New
+                    - listitem [ref=e480]:
+                      - link "Mesh Beta" [ref=e481] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/mesh
+                        - generic [ref=e482]: Mesh
+                        - generic [ref=e484]: Beta
+                    - listitem [ref=e485]:
+                      - button "IP addresses" [ref=e486] [cursor=pointer]:
+                        - generic [ref=e488]: IP addresses
+                        - img [ref=e489]
+                      - list [ref=e491]:
+                        - listitem [ref=e493]:
+                          - link "Address space" [ref=e494] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/ip-addresses/address-space
+                            - generic [ref=e495]: Address space
+                        - listitem [ref=e496]:
+                          - link "Address maps" [ref=e497] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/ip-addresses/proxy-ips
+                            - generic [ref=e498]: Address maps
+                - listitem [ref=e499]:
+                  - button "Delivery & performance" [ref=e500] [cursor=pointer]:
+                    - generic [ref=e501]:
+                      - img [ref=e502]
+                      - generic [ref=e504]: Delivery & performance
+                      - img [ref=e505]
+                  - list [ref=e507]:
+                    - listitem [ref=e509]:
+                      - link "Bulk redirects" [ref=e510] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/bulk-redirects
+                        - generic [ref=e511]: Bulk redirects
+                    - listitem [ref=e512]:
+                      - link "Load Balancing" [ref=e513] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/load-balancing
+                        - generic [ref=e514]: Load Balancing
+                    - listitem [ref=e515]:
+                      - button "Web tag management" [ref=e516] [cursor=pointer]:
+                        - generic [ref=e518]: Web tag management
+                        - img [ref=e519]
+                      - list [ref=e521]:
+                        - listitem [ref=e523]:
+                          - link "Tag setup" [ref=e524] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/tag-management/zaraz
+                            - generic [ref=e525]: Tag setup
+                        - listitem [ref=e526]:
+                          - link "Consent" [ref=e527] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/tag-management/consent
+                            - generic [ref=e528]: Consent
+                        - listitem [ref=e529]:
+                          - link "History" [ref=e530] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/tag-management/history
+                            - generic [ref=e531]: History
+                        - listitem [ref=e532]:
+                          - link "Monitoring" [ref=e533] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/tag-management/monitoring
+                            - generic [ref=e534]: Monitoring
+                        - listitem [ref=e535]:
+                          - link "Settings" [ref=e536] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/tag-management/settings
+                            - generic [ref=e537]: Settings
+                        - listitem [ref=e538]:
+                          - link "Zaraz plans" [ref=e539] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/tag-management/plans
+                            - generic [ref=e540]: Zaraz plans
+                        - listitem [ref=e541]:
+                          - link "Google Tag Gateway" [ref=e542] [cursor=pointer]:
+                            - /url: /5cacafefb8b37c93a53b60ddd6a39b30/tag-management/google-tag-gateway
+                            - generic [ref=e543]: Google Tag Gateway
+                - listitem [ref=e544]
+                - listitem [ref=e546]:
+                  - button "Manage account" [ref=e547] [cursor=pointer]:
+                    - generic [ref=e548]:
+                      - img [ref=e549]
+                      - generic [ref=e552]: Manage account
+                      - img [ref=e553]
+                  - list [ref=e555]:
+                    - listitem [ref=e557]:
+                      - link "Members" [ref=e558] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/members
+                        - generic [ref=e559]: Members
+                    - listitem [ref=e560]:
+                      - link "Billing" [ref=e561] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/billing
+                        - generic [ref=e562]: Billing
+                    - listitem [ref=e563]:
+                      - link "Account API tokens" [ref=e564] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/api-tokens
+                        - generic [ref=e565]: Account API tokens
+                    - listitem [ref=e566]:
+                      - link "Audit logs" [ref=e567] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/audit-log
+                        - generic [ref=e568]: Audit logs
+                    - listitem [ref=e569]:
+                      - link "Notifications" [ref=e570] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/notifications
+                        - generic [ref=e571]: Notifications
+                    - listitem [ref=e572]:
+                      - link "Shared config Alpha" [ref=e573] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/shared-configurations
+                        - generic [ref=e574]: Shared config
+                        - generic [ref=e576]: Alpha
+                    - listitem [ref=e577]:
+                      - link "Blocked content" [ref=e578] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/blocked-content
+                        - generic [ref=e579]: Blocked content
+                    - listitem [ref=e580]:
+                      - link "Abuse reports Beta" [ref=e581] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/abuse-reports
+                        - generic [ref=e582]: Abuse reports
+                        - generic [ref=e584]: Beta
+                    - listitem [ref=e585]:
+                      - link "Carbon Impact Report" [ref=e586] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/carbon
+                        - generic [ref=e587]: Carbon Impact Report
+                    - listitem [ref=e588]:
+                      - link "Configurations" [ref=e589] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/configurations
+                        - generic [ref=e590]: Configurations
+                    - listitem [ref=e591]:
+                      - link "Tagged Resources Beta" [ref=e592] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/tags
+                        - generic [ref=e593]: Tagged Resources
+                        - generic [ref=e595]: Beta
+        - button "Collapse sidebar" [expanded] [ref=e598] [cursor=pointer]:
+          - img
+      - generic [ref=e599]:
+        - banner [ref=e600]:
+          - navigation "breadcrumb" [ref=e603]:
+            - generic [ref=e604]:
+              - img [ref=e606]
+              - generic [ref=e607]: Michael.a.hawk.1995@gmail.com's Account
+          - generic [ref=e608]:
+            - button "Ask AI" [ref=e609] [cursor=pointer]:
+              - img [ref=e610]
+              - generic [ref=e612]: Ask AI
+            - link "Support" [ref=e613] [cursor=pointer]:
+              - /url: /?to=/:account/support
+              - img [ref=e614]
+              - generic [ref=e616]: Support
+            - button "User menu" [ref=e617] [cursor=pointer]:
+              - img [ref=e618]
+        - marquee [ref=e623]:
+          - generic [ref=e628]:
+            - generic [ref=e629]:
+              - generic [ref=e630]: Know exactly what you’ll be charged. Get daily visibility into usage-based costs across your Cloudflare account.
+              - link "View Dashboard" [ref=e631] [cursor=pointer]:
+                - /url: /?to=/:account/billing/billable-usage
+            - button [ref=e632] [cursor=pointer]:
+              - img [ref=e633]
+        - main [ref=e635]:
+          - generic [ref=e636]:
+            - navigation "breadcrumb" [ref=e639]:
+              - generic [ref=e642]: Account home
+            - generic [ref=e643]:
+              - generic [ref=e644]:
+                - heading "Michael.a.hawk.1995@gmail.com's Account" [level=1] [ref=e646]
+                - paragraph
+              - generic [ref=e647]:
+                - button "Manage tags" [ref=e648] [cursor=pointer]:
+                  - img [ref=e649]
+                - button "Actions" [ref=e651] [cursor=pointer]:
+                  - img [ref=e652]
+                - button "Add" [ref=e654] [cursor=pointer]:
+                  - img [ref=e655]
+                  - generic [ref=e657]: Add
+          - generic [ref=e660]:
+            - region "Analytics" [ref=e663]:
+              - generic [ref=e664]:
+                - heading "Analytics" [level=5] [ref=e666]
+                - button "Last 24 hours" [ref=e668] [cursor=pointer]:
+                  - img [ref=e669]
+                  - text: Last 24 hours
+              - generic [ref=e672]:
+                - generic [ref=e673]:
+                  - heading "Security" [level=2] [ref=e676]:
+                    - generic [ref=e678]:
+                      - img [ref=e679]
+                      - generic [ref=e681]: Security
+                  - generic [ref=e683]:
+                    - link "Security insights Info 2 1 high, 1 low" [ref=e684] [cursor=pointer]:
+                      - /url: /5cacafefb8b37c93a53b60ddd6a39b30/security-center
+                      - generic [ref=e685]:
+                        - generic [ref=e686]:
+                          - text: Security insights
+                          - img "Info" [ref=e687]
+                        - generic [ref=e689]:
+                          - generic [ref=e690]: "2"
+                          - generic [ref=e691]: 1 high, 1 low
+                    - link "Encrypted requests Info 100.0% 0.0%" [ref=e692] [cursor=pointer]:
+                      - /url: /5cacafefb8b37c93a53b60ddd6a39b30/analytics
+                      - generic [ref=e693]:
+                        - generic [ref=e694]:
+                          - text: Encrypted requests
+                          - img "Info" [ref=e695]
+                        - generic [ref=e697]:
+                          - generic [ref=e698]: 100.0%
+                          - generic [ref=e699]: 0.0%
+                        - img [ref=e703]
+                - generic [ref=e707]:
+                  - heading "Performance" [level=2] [ref=e710]:
+                    - generic [ref=e712]:
+                      - img [ref=e713]
+                      - generic [ref=e715]: Performance
+                  - generic [ref=e717]:
+                    - link "CPU time (90%) — ms" [ref=e718] [cursor=pointer]:
+                      - /url: /5cacafefb8b37c93a53b60ddd6a39b30/observability/overview?timeframe=24h
+                      - generic [ref=e719]:
+                        - generic [ref=e720]: CPU time (90%)
+                        - generic [ref=e721]:
+                          - generic [ref=e722]: —
+                          - generic [ref=e723]: ms
+                    - link "Workers errors 0" [ref=e724] [cursor=pointer]:
+                      - /url: /5cacafefb8b37c93a53b60ddd6a39b30/observability/overview?timeframe=24h
+                      - generic [ref=e725]:
+                        - generic [ref=e726]: Workers errors
+                        - generic [ref=e728]: "0"
+                - generic [ref=e729]:
+                  - heading "Activity" [level=2] [ref=e732]:
+                    - generic [ref=e734]:
+                      - img [ref=e735]
+                      - generic [ref=e737]: Activity
+                  - generic [ref=e739]:
+                    - link "Workers invocations 0" [ref=e740] [cursor=pointer]:
+                      - /url: /5cacafefb8b37c93a53b60ddd6a39b30/observability/overview?timeframe=24h
+                      - generic [ref=e741]:
+                        - generic [ref=e742]: Workers invocations
+                        - generic [ref=e744]: "0"
+                    - link "Build minutes Info 0" [ref=e745] [cursor=pointer]:
+                      - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers/overview
+                      - generic [ref=e746]:
+                        - generic [ref=e747]:
+                          - text: Build minutes
+                          - img "Info" [ref=e748]
+                        - generic [ref=e751]: "0"
+            - generic [ref=e753]:
+              - link "Domains" [ref=e755] [cursor=pointer]:
+                - /url: /5cacafefb8b37c93a53b60ddd6a39b30/domains/overview
+                - heading "Domains" [level=2] [ref=e757]:
+                  - generic [ref=e758]: Domains
+              - generic [ref=e760]:
+                - generic:
+                  - list:
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                    - listitem:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img
+                - generic [ref=e763]:
+                  - img [ref=e765]
+                  - generic [ref=e767]:
+                    - heading "Your sites, faster and safer" [level=3] [ref=e768]
+                    - paragraph [ref=e769]: Boost performance, block attacks, and stop bad bots
+                  - link "Add a domain" [ref=e770] [cursor=pointer]:
+                    - /url: /5cacafefb8b37c93a53b60ddd6a39b30/add-site
+                    - generic [ref=e771]: Add a domain
+            - generic [ref=e773]:
+              - link "Workers and Pages 3 Build Actions" [ref=e775] [cursor=pointer]:
+                - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers-and-pages
+                - generic [ref=e776]:
+                  - heading "Workers and Pages 3" [level=2] [ref=e777]:
+                    - generic [ref=e778]: Workers and Pages
+                    - generic [ref=e779]: "3"
+                  - generic [ref=e780]:
+                    - link "Build" [ref=e783]:
+                      - /url: /5cacafefb8b37c93a53b60ddd6a39b30/workers-and-pages/create
+                      - img [ref=e784]
+                    - button "Actions" [ref=e786]:
+                      - img [ref=e787]
+              - generic [ref=e790]:
+                - generic:
+                  - list:
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                - list [ref=e792]:
+                  - listitem [ref=e793]:
+                    - generic [ref=e794]:
+                      - generic "Pages" [ref=e795]:
+                        - img [ref=e796]
+                      - link "warroom" [ref=e800] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/pages/view/warroom
+                        - generic [ref=e801]: warroom
+                    - generic [ref=e802]:
+                      - button "13 days ago" [ref=e803]
+                      - button "Actions" [ref=e804] [cursor=pointer]:
+                        - img [ref=e805]
+                  - listitem [ref=e807]:
+                    - generic [ref=e808]:
+                      - generic "Pages" [ref=e809]:
+                        - img [ref=e810]
+                      - link "atx-pool-builders" [ref=e814] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/pages/view/atx-pool-builders
+                        - generic [ref=e815]: atx-pool-builders
+                    - generic [ref=e816]:
+                      - button "1 month ago" [ref=e817]
+                      - button "Actions" [ref=e818] [cursor=pointer]:
+                        - img [ref=e819]
+                  - listitem [ref=e821]:
+                    - generic [ref=e822]:
+                      - generic "Pages" [ref=e823]:
+                        - img [ref=e824]
+                      - link "media-blasting" [ref=e828] [cursor=pointer]:
+                        - /url: /5cacafefb8b37c93a53b60ddd6a39b30/pages/view/media-blasting
+                        - generic [ref=e829]: media-blasting
+                    - generic [ref=e830]:
+                      - button "1 month ago" [ref=e831]
+                      - button "Actions" [ref=e832] [cursor=pointer]:
+                        - img [ref=e833]
+            - generic [ref=e836]:
+              - link "Zero Trust security" [ref=e837] [cursor=pointer]:
+                - /url: https://dash.cloudflare.com/5cacafefb8b37c93a53b60ddd6a39b30/one/overview
+                - heading "Zero Trust security" [level=2] [ref=e839]:
+                  - generic [ref=e840]: Zero Trust security
+              - generic [ref=e842]:
+                - generic:
+                  - list:
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                - generic [ref=e845]:
+                  - img [ref=e847]
+                  - generic [ref=e850]:
+                    - heading "Secure access for your team and tools" [level=3] [ref=e851]
+                    - paragraph [ref=e852]: Control who reaches your internal apps and data, without a VPN
+                  - link "Get started" [ref=e853] [cursor=pointer]:
+                    - /url: https://dash.cloudflare.com/5cacafefb8b37c93a53b60ddd6a39b30/one
+                    - generic [ref=e854]: Get started
+            - generic [ref=e856]:
+              - link "Audit logs" [ref=e858] [cursor=pointer]:
+                - /url: /5cacafefb8b37c93a53b60ddd6a39b30/audit-log?action_type~neq=view&resource_scope~in=accounts,zones&actor_context=dash
+                - heading "Audit logs" [level=2] [ref=e860]:
+                  - generic [ref=e861]: Audit logs
+              - generic [ref=e863]:
+                - generic:
+                  - list:
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                - list [ref=e865]:
+                  - listitem [ref=e866]:
+                    - button "Create Token tokens 5d ago" [ref=e869]:
+                      - generic [ref=e870]: Create Token
+                      - generic [ref=e871]: tokens
+                      - time [ref=e873]: 5d ago
+            - generic [ref=e875]:
+              - heading "Next steps" [level=2] [ref=e878]:
+                - generic [ref=e879]: Next steps
+              - generic [ref=e881]:
+                - generic:
+                  - list:
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                - list [ref=e883]:
+                  - listitem [ref=e884]:
+                    - link "Enable single sign-on to improve login security" [ref=e887] [cursor=pointer]:
+                      - /url: //developers.cloudflare.com/cloudflare-one/applications/configure-apps/dash-sso-apps/
+                      - generic [ref=e888]: Enable single sign-on to improve login security
+                      - img [ref=e889]
+                  - listitem [ref=e891]:
+                    - link "Invite teammates and back-up admins" [ref=e894] [cursor=pointer]:
+                      - /url: /5cacafefb8b37c93a53b60ddd6a39b30/members
+                      - generic [ref=e895]: Invite teammates and back-up admins
+                      - img [ref=e896]
+                  - listitem [ref=e898]:
+                    - link "Get alerts for billing, attacks, and more" [ref=e901] [cursor=pointer]:
+                      - /url: /5cacafefb8b37c93a53b60ddd6a39b30/notifications
+                      - generic [ref=e902]: Get alerts for billing, attacks, and more
+                      - img [ref=e903]
+        - contentinfo [ref=e905]:
+          - list [ref=e907]:
+            - listitem [ref=e908]:
+              - link "Support" [ref=e909] [cursor=pointer]:
+                - /url: https://support.cloudflare.com
+            - listitem [ref=e910]:
+              - link "System status" [ref=e911] [cursor=pointer]:
+                - /url: https://www.cloudflarestatus.com
+            - listitem [ref=e912]:
+              - link "Careers" [ref=e913] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/careers/
+            - listitem [ref=e914]:
+              - link "Terms of Use" [ref=e915] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/website-terms/
+            - listitem [ref=e916]:
+              - link "Report Security Issues" [ref=e917] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/disclosure/
+            - listitem [ref=e918]:
+              - link "Privacy Policy" [ref=e919] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/privacypolicy/
+            - listitem [ref=e920]:
+              - button "A blue and white pill with a checkmark and an x, representing privacy choices Your Privacy Choices" [ref=e921] [cursor=pointer]:
+                - img "A blue and white pill with a checkmark and an x, representing privacy choices" [ref=e922]
+                - text: Your Privacy Choices
+            - listitem [ref=e923]:
+              - generic [ref=e924]: © 2026 Cloudflare, Inc.
+    - generic [ref=e926]:
+      - generic [ref=e929]:
+        - button "New conversation" [ref=e932] [cursor=pointer]:
+          - generic [ref=e933]: New conversation
+          - img [ref=e934]
+        - generic [ref=e936]:
+          - button "New chat" [ref=e937] [cursor=pointer]:
+            - img [ref=e938]
+          - button "Expand sidebar" [ref=e940] [cursor=pointer]:
+            - img [ref=e941]
+          - button "Close sidebar" [ref=e943] [cursor=pointer]:
+            - img [ref=e944]
+      - generic [ref=e946]:
+        - generic [ref=e947]:
+          - generic [ref=e948]:
+            - paragraph [ref=e949]: Need more help?
+            - link "Support" [ref=e950] [cursor=pointer]:
+              - /url: /5cacafefb8b37c93a53b60ddd6a39b30/support
+              - button "Support" [ref=e951]
+          - generic [ref=e953]:
+            - generic [ref=e964]:
+              - heading "Good morning." [level=3] [ref=e965]
+              - paragraph [ref=e966]: What are we doing today?
+            - generic [ref=e967]:
+              - button "Environment variables Add or update secrets" [ref=e968] [cursor=pointer]:
+                - img [ref=e970]
+                - generic [ref=e972]:
+                  - generic [ref=e973]: Environment variables
+                  - generic [ref=e974]: Add or update secrets
+                - img [ref=e976]
+              - button "Deploy a Worker Help me get started" [ref=e978] [cursor=pointer]:
+                - img [ref=e980]
+                - generic [ref=e982]:
+                  - generic [ref=e983]: Deploy a Worker
+                  - generic [ref=e984]: Help me get started
+                - img [ref=e986]
+              - button "Transfer a domain Walk me through the process" [ref=e988] [cursor=pointer]:
+                - img [ref=e990]
+                - generic [ref=e992]:
+                  - generic [ref=e993]: Transfer a domain
+                  - generic [ref=e994]: Walk me through the process
+                - img [ref=e996]
+              - button "Find my account ID Locate account and zone IDs" [ref=e998] [cursor=pointer]:
+                - img [ref=e1000]
+                - generic [ref=e1002]:
+                  - generic [ref=e1003]: Find my account ID
+                  - generic [ref=e1004]: Locate account and zone IDs
+                - img [ref=e1006]
+              - button "Bind R2 to a Worker Connect object storage" [ref=e1008] [cursor=pointer]:
+                - img [ref=e1010]
+                - generic [ref=e1012]:
+                  - generic [ref=e1013]: Bind R2 to a Worker
+                  - generic [ref=e1014]: Connect object storage
+                - img [ref=e1016]
+        - generic [ref=e1018]:
+          - generic [ref=e1020]:
+            - paragraph [ref=e1021]:
+              - text: Chats are recorded to improve the service and are processed in accordance with our
+              - link "Privacy Policy" [ref=e1022] [cursor=pointer]:
+                - /url: https://www.cloudflare.com/privacypolicy/
+              - text: .
+            - button "Close privacy notice" [ref=e1023] [cursor=pointer]:
+              - img [ref=e1024]
+          - generic [ref=e1027]:
+            - textbox "What can we help you with?" [active] [ref=e1028]
+            - generic [ref=e1029]:
+              - button "Edit behavior" [ref=e1031] [cursor=pointer]:
+                - img [ref=e1032]
+                - text: Ask
+              - button "Settings" [ref=e1034] [cursor=pointer]:
+                - img [ref=e1035]
+              - button "Submit" [disabled] [ref=e1037]:
+                - img [ref=e1038]
+  - generic:
+    - region "Notifications"

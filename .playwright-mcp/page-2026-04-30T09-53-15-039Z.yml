@@ -1,0 +1,320 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "Nelson Pools ATX" [ref=e3] [cursor=pointer]:
+      - /url: "#home"
+      - img "Nelson Pools ATX" [ref=e4]
+    - list [ref=e5]:
+      - listitem [ref=e6]:
+        - link "Services" [ref=e7] [cursor=pointer]:
+          - /url: "#services"
+      - listitem [ref=e8]:
+        - link "New Builds" [ref=e9] [cursor=pointer]:
+          - /url: "#startup"
+      - listitem [ref=e10]:
+        - link "Calcium" [ref=e11] [cursor=pointer]:
+          - /url: "#calcium"
+      - listitem [ref=e12]:
+        - link "Reviews" [ref=e13] [cursor=pointer]:
+          - /url: "#reviews"
+      - listitem [ref=e14]:
+        - link "Call Now" [ref=e15] [cursor=pointer]:
+          - /url: tel:+15129888629
+  - generic [ref=e19]:
+    - paragraph [ref=e20]: Austin's Pool Startup Specialist
+    - heading "Pools done right from day one." [level=1] [ref=e21]:
+      - text: Pools done right
+      - text: from
+      - emphasis [ref=e22]: day one.
+    - paragraph [ref=e23]: Austin's startup specialist — for new builds, weekly service, and the repairs others can't diagnose.
+    - generic [ref=e24]:
+      - link "Request a Quote" [ref=e25] [cursor=pointer]:
+        - /url: "#contact"
+      - link "📞 (512) 988-8629" [ref=e26] [cursor=pointer]:
+        - /url: tel:+15129888629
+    - generic [ref=e27]:
+      - generic [ref=e28]: ✓ Licensed & Insured
+      - generic [ref=e29]: ✓ Austin & Hill Country
+      - generic [ref=e30]: ✓ Builder-Trusted
+  - generic [ref=e31]:
+    - generic [ref=e32]:
+      - generic [ref=e33]: What We Do
+      - heading "Three services. Done precisely." [level=2] [ref=e34]:
+        - text: Three services.
+        - emphasis [ref=e35]: Done precisely.
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - generic [ref=e38]: "01"
+          - heading "New Pool Startups" [level=3] [ref=e39]
+          - paragraph [ref=e40]: Proper chemical startup for plaster, pebble, and aggregate finishes. We protect your finish and your warranty from day one.
+        - generic [ref=e41]:
+          - generic [ref=e42]: "02"
+          - heading "Weekly Service & Maintenance" [level=3] [ref=e43]
+          - paragraph [ref=e44]: Same technician, every week. Chemistry, cleaning, equipment inspection. No rotating crews, no guesswork.
+        - generic [ref=e45]:
+          - generic [ref=e46]: "03"
+          - heading "Repairs & Remediation" [level=3] [ref=e47]
+          - paragraph [ref=e48]: Filter replacements, pump repairs, algae remediation, underwater fixes. We diagnose first, quote honestly, and do it once.
+    - generic [ref=e51]:
+      - img "New pool equipment pad — Pentair system" [ref=e53]
+      - generic [ref=e54]:
+        - generic [ref=e55]: 01 — New Pool Startups
+        - heading "The startup phase defines the surface for years." [level=3] [ref=e56]
+        - paragraph [ref=e57]: "Wrong chemistry or missed brush schedules during the first 28 days can void the manufacturer warranty and cause permanent staining. We follow precise protocols: correct chemical sequencing, daily brush schedules, pH management, and full equipment commissioning."
+        - list [ref=e58]:
+          - listitem [ref=e59]:
+            - generic [ref=e60]: "1"
+            - text: Water chemistry baseline & equipment check
+          - listitem [ref=e61]:
+            - generic [ref=e62]: "2"
+            - text: Chemical sequencing per plaster/pebble manufacturer spec
+          - listitem [ref=e63]:
+            - generic [ref=e64]: "3"
+            - text: Daily brush schedule and debris management
+          - listitem [ref=e65]:
+            - generic [ref=e66]: "4"
+            - text: Equipment commissioning and flow balancing
+          - listitem [ref=e67]:
+            - generic [ref=e68]: "5"
+            - text: Documented handoff to homeowner
+    - generic [ref=e71]:
+      - img "Water chemistry testing poolside" [ref=e73]
+      - generic [ref=e74]:
+        - generic [ref=e75]: 02 — Weekly Maintenance
+        - heading "The same technician. Every week." [level=3] [ref=e76]
+        - paragraph [ref=e77]: Consistency catches problems early. You get the same set of eyes on your equipment every visit — not a rotating crew who doesn't know your pool's history.
+        - list [ref=e78]:
+          - listitem [ref=e79]:
+            - generic [ref=e80]: →
+            - text: Water test and full chemical adjustment
+          - listitem [ref=e81]:
+            - generic [ref=e82]: →
+            - text: Skimmer, basket, and filter service
+          - listitem [ref=e83]:
+            - generic [ref=e84]: →
+            - text: Brushing and vacuuming as needed
+          - listitem [ref=e85]:
+            - generic [ref=e86]: →
+            - text: Equipment visual inspection every visit
+    - generic [ref=e89]:
+      - img "Completed labeled valve manifold" [ref=e91]
+      - generic [ref=e92]:
+        - generic [ref=e93]: 03 — Equipment & Repairs
+        - heading "We go in when others won't." [level=3] [ref=e94]
+        - paragraph [ref=e95]: Pumps, filters, heaters, plumbing, automation. We diagnose the root cause before quoting. Our equipment installs are labeled, clean, and built to last — including underwater work that most technicians won't attempt without a drain.
+        - list [ref=e96]:
+          - listitem [ref=e97]:
+            - generic [ref=e98]: →
+            - text: Pump and motor diagnostics & replacement
+          - listitem [ref=e99]:
+            - generic [ref=e100]: →
+            - text: Filter cartridge and DE service
+          - listitem [ref=e101]:
+            - generic [ref=e102]: →
+            - text: PVC plumbing and manifold repairs
+          - listitem [ref=e103]:
+            - generic [ref=e104]: →
+            - text: Underwater repairs — no drain required for most jobs
+  - generic [ref=e106]:
+    - generic [ref=e107]: Results
+    - heading "The work speaks for itself." [level=2] [ref=e108]:
+      - text: The work speaks
+      - emphasis [ref=e109]: for itself.
+    - generic [ref=e110]:
+      - generic [ref=e111]:
+        - generic [ref=e112]:
+          - generic [ref=e113]:
+            - img "Pool before — algae" [ref=e114]
+            - generic [ref=e115]: Before
+          - generic [ref=e116]:
+            - img "Pool after — clean" [ref=e117]
+            - generic [ref=e118]: After
+        - paragraph [ref=e119]: Algae Remediation — Vinyl Liner Pool
+      - generic [ref=e120]:
+        - generic [ref=e121]:
+          - generic [ref=e122]:
+            - img "Fouled filter elements" [ref=e123]
+            - generic [ref=e124]: Before
+          - generic [ref=e125]:
+            - img "New filter cartridges" [ref=e126]
+            - generic [ref=e127]: After
+        - paragraph [ref=e128]: Cartridge Filter Replacement
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - generic [ref=e131]:
+            - img "Equipment mid-disassembly" [ref=e132]
+            - generic [ref=e133]: Before
+          - generic [ref=e134]:
+            - img "Completed manifold install" [ref=e135]
+            - generic [ref=e136]: After
+        - paragraph [ref=e137]: Equipment Pad — Full Rebuild
+      - generic [ref=e138]:
+        - generic [ref=e139]:
+          - generic [ref=e140]:
+            - img "Underwater repair work" [ref=e141]
+            - generic [ref=e142]: In Progress
+          - generic [ref=e143]:
+            - img "Clean tile result after service" [ref=e144]
+            - generic [ref=e145]: Result
+        - paragraph [ref=e146]: Underwater Repair & Tile Service
+  - generic [ref=e149]:
+    - generic [ref=e150]:
+      - generic [ref=e151]: New Build Specialty
+      - heading "Builders trust us because we've earned it." [level=2] [ref=e152]:
+        - text: Builders trust us
+        - text: because we've
+        - emphasis [ref=e153]: earned it.
+      - paragraph [ref=e154]: Every new pool in Austin gets handed to a homeowner at the worst possible moment — right when the chemistry needs the most attention. We're the technicians builders call to make sure that handoff goes perfectly.
+      - paragraph [ref=e155]: We work directly with builders from the equipment pad through the first 30 days of water, documenting every step so the homeowner and builder both have a clean record.
+      - link "Schedule a Startup →" [ref=e156] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e157]:
+      - img "Complete Pentair equipment pad install" [ref=e158]
+      - img "PVC plumbing rough-in" [ref=e159]
+      - img "Completed labeled manifold" [ref=e160]
+  - generic [ref=e161]:
+    - generic [ref=e162]: ✓ Licensed & Insured
+    - generic [ref=e163]: ✓ Austin Metro & Hill Country
+    - generic [ref=e164]: ✓ No Subcontractors
+    - generic [ref=e165]: ✓ Same Tech Every Visit
+  - generic [ref=e169]:
+    - generic [ref=e170]:
+      - generic [ref=e171]: Specialty Service
+      - heading "Calcium scaling removed without draining." [level=2] [ref=e172]:
+        - text: Calcium scaling
+        - text: removed without
+        - emphasis [ref=e173]: draining.
+      - paragraph [ref=e174]: "Austin pulls from limestone aquifers — water that's naturally high in calcium. Over time it precipitates at the waterline: white crusty deposits that don't respond to standard pool chemicals."
+      - paragraph [ref=e175]: Left alone, calcium etches tile grout, stains plaster, and builds up inside equipment — cutting heater efficiency and shortening pump life. We remove it using targeted descaling protocols appropriate to your surface type.
+      - paragraph [ref=e176]: Most waterline tile deposits can be treated in-water. No full drain required in the majority of cases.
+      - link "Get a Calcium Assessment →" [ref=e177] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e178]:
+      - generic [ref=e179]: FAQ
+      - heading "Common questions." [level=3] [ref=e180]
+      - generic [ref=e181]:
+        - paragraph [ref=e182] [cursor=pointer]: Do I need to drain my pool?
+        - paragraph [ref=e183]: Not in most cases. Waterline tile deposits are typically treated in-water. Heavily scaled plaster or submerged surfaces may require a partial drain — we assess and tell you honestly before any work begins.
+      - generic [ref=e184]:
+        - paragraph [ref=e185] [cursor=pointer]: How long does it take?
+        - paragraph [ref=e186]: Waterline tile on a typical residential pool takes 2–4 hours. More extensive treatments may require a follow-up visit.
+      - generic [ref=e187]:
+        - paragraph [ref=e188] [cursor=pointer]: Will it come back?
+        - paragraph [ref=e189]: Calcium will return if underlying water chemistry isn't managed. After removal we walk you through the chemical targets — saturation index, calcium hardness — to slow re-accumulation significantly.
+      - generic [ref=e190]:
+        - paragraph [ref=e191] [cursor=pointer]: Can it damage equipment?
+        - paragraph [ref=e192]: Yes. Calcium scale inside heater heat exchangers and pump impellers reduces efficiency and accelerates wear. If your tile shows scaling, your equipment is likely affected too. We check both.
+  - generic [ref=e194]:
+    - generic [ref=e195]:
+      - generic [ref=e196]: Client Reviews
+      - heading "What Austin pool owners say." [level=2] [ref=e197]:
+        - text: What Austin
+        - text: pool owners say.
+    - generic [ref=e198]:
+      - button "←" [ref=e199] [cursor=pointer]
+      - button "→" [ref=e200] [cursor=pointer]
+    - generic [ref=e201]:
+      - heading "Leave a Review" [level=3] [ref=e202]
+      - paragraph [ref=e203]: Received great service? Let other Austin homeowners know.
+      - generic [ref=e204]:
+        - generic [ref=e205]:
+          - generic [ref=e206]: Your Name
+          - textbox "Jane Smith" [ref=e207]
+        - generic [ref=e208]:
+          - generic [ref=e209]: Neighborhood / City
+          - textbox "Westlake Hills, TX" [ref=e210]
+        - generic [ref=e211]:
+          - generic [ref=e212]: Service Received
+          - combobox [ref=e213]:
+            - option "Select..." [selected]
+            - option "New Pool Startup"
+            - option "Weekly Service"
+            - option "Equipment Repair"
+            - option "Calcium Removal"
+            - option "Algae Remediation"
+            - option "Other"
+        - generic [ref=e214]:
+          - generic [ref=e215]: Your Review
+          - textbox "Tell us about your experience — what was done, how it went..." [ref=e216]
+        - button "Submit Review" [ref=e217] [cursor=pointer]
+  - generic [ref=e220]:
+    - generic [ref=e221]:
+      - generic [ref=e222]: Get a Quote
+      - heading "Ready to talk about your pool?" [level=2] [ref=e223]:
+        - text: Ready to talk
+        - text: about your pool?
+      - paragraph [ref=e224]: We'll respond within one business day. For urgent repairs or startup scheduling, call directly.
+      - generic [ref=e225]:
+        - generic [ref=e226]: 📞
+        - link "(512) 988-8629" [ref=e227] [cursor=pointer]:
+          - /url: tel:+15129888629
+      - generic [ref=e228]:
+        - generic [ref=e229]: ✉
+        - link "nelsonpoolsatx@gmail.com" [ref=e230] [cursor=pointer]:
+          - /url: mailto:nelsonpoolsatx@gmail.com
+      - generic [ref=e231]:
+        - generic [ref=e232]: 📍
+        - generic [ref=e233]: Austin Metro & Hill Country, TX
+    - generic [ref=e234]:
+      - generic [ref=e235]:
+        - generic [ref=e236]: First Name
+        - textbox [ref=e237]
+      - generic [ref=e238]:
+        - generic [ref=e239]: Last Name
+        - textbox [ref=e240]
+      - generic [ref=e241]:
+        - generic [ref=e242]: Phone
+        - textbox [ref=e243]
+      - generic [ref=e244]:
+        - generic [ref=e245]: Email
+        - textbox [ref=e246]
+      - generic [ref=e247]:
+        - generic [ref=e248]: Service Needed
+        - combobox [ref=e249]:
+          - option "Select a service..." [selected]
+          - option "New Pool Startup"
+          - option "Weekly Pool Service"
+          - option "Equipment Repair"
+          - option "Calcium Removal"
+          - option "Algae Remediation"
+          - option "Other / Not sure"
+      - generic [ref=e250]:
+        - generic [ref=e251]: Tell us about your pool
+        - textbox "Pool type, size, current issue..." [ref=e252]
+      - generic [ref=e254] [cursor=pointer]:
+        - checkbox "I agree to receive SMS messages from Nelson Pools ATX regarding my service requests and scheduling. Message and data rates may apply. Message frequency varies. Text HELP for help or STOP to opt out." [ref=e255]
+        - generic [ref=e256]: I agree to receive SMS messages from Nelson Pools ATX regarding my service requests and scheduling. Message and data rates may apply. Message frequency varies. Text HELP for help or STOP to opt out.
+      - paragraph [ref=e258]:
+        - text: By providing your phone number, you agree to receive text messages from Nelson Pools ATX. Consent is not a condition of purchase.
+        - link "Privacy Policy" [ref=e259] [cursor=pointer]:
+          - /url: /privacy
+        - text: and
+        - link "Terms of Service" [ref=e260] [cursor=pointer]:
+          - /url: /terms
+        - text: apply.
+      - button "Send Message" [ref=e261] [cursor=pointer]
+  - contentinfo [ref=e262]:
+    - generic [ref=e263]:
+      - img "Nelson Pools ATX" [ref=e265]
+      - list [ref=e266]:
+        - listitem [ref=e267]:
+          - link "Services" [ref=e268] [cursor=pointer]:
+            - /url: "#services"
+        - listitem [ref=e269]:
+          - link "New Builds" [ref=e270] [cursor=pointer]:
+            - /url: "#startup"
+        - listitem [ref=e271]:
+          - link "Calcium" [ref=e272] [cursor=pointer]:
+            - /url: "#calcium"
+        - listitem [ref=e273]:
+          - link "Reviews" [ref=e274] [cursor=pointer]:
+            - /url: "#reviews"
+        - listitem [ref=e275]:
+          - link "Contact" [ref=e276] [cursor=pointer]:
+            - /url: "#contact"
+        - listitem [ref=e277]:
+          - link "Privacy" [ref=e278] [cursor=pointer]:
+            - /url: /privacy
+        - listitem [ref=e279]:
+          - link "Terms" [ref=e280] [cursor=pointer]:
+            - /url: /terms
+      - paragraph [ref=e281]: © 2025 Nelson Pools ATX LLC · Austin, TX
